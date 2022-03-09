@@ -4,5 +4,5 @@
 |description|command|
 |---|---|
 |to show ip| `ip add`|
-|to show shells|```cat /etc/shells```|
-|to show hostname|```hostnamectl```|
+|to show shells|`cat /etc/shells`|
+|to show hostname|`hostnamectl`|
